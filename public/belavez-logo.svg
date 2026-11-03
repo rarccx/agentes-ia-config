@@ -1,0 +1,17 @@
+<svg width="196" height="48" viewBox="0 0 196 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="petal" x1="7" y1="7" x2="41" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A87891"/>
+      <stop offset="1" stop-color="#704C67"/>
+    </linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="23" fill="#F8EDF0"/>
+  <path d="M24 8.2C27.8 13.1 28.2 17.2 24 21.4C19.8 17.2 20.2 13.1 24 8.2Z" fill="url(#petal)"/>
+  <path d="M39.8 24C34.9 27.8 30.8 28.2 26.6 24C30.8 19.8 34.9 20.2 39.8 24Z" fill="url(#petal)"/>
+  <path d="M24 39.8C20.2 34.9 19.8 30.8 24 26.6C28.2 30.8 27.8 34.9 24 39.8Z" fill="url(#petal)"/>
+  <path d="M8.2 24C13.1 20.2 17.2 19.8 21.4 24C17.2 28.2 13.1 27.8 8.2 24Z" fill="url(#petal)"/>
+  <circle cx="24" cy="24" r="4.2" fill="#FFF9F7"/>
+  <circle cx="37.2" cy="10.8" r="4.1" fill="#D5A876" stroke="#FFF9F7" stroke-width="1.5"/>
+  <text x="57" y="29" fill="#533E50" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-weight="600" letter-spacing="-0.9">BelaVez</text>
+  <text x="58" y="41" fill="#9B8496" font-family="Arial, sans-serif" font-size="7.5" font-weight="600" letter-spacing="1.3">CUIDADO NO SEU TEMPO</text>
+</svg>

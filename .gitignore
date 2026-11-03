@@ -1,0 +1,18 @@
+# Local credentials and platform state
+.env*
+!.env.example
+.neon
+.neon/
+.vercel/
+
+# Build output and dependencies
+node_modules/
+.next/
+
+# Local agent context and scratch files
+.agents/
+.codex/
+work/
+outputs/
+AGENTS.md
+skills-lock.json

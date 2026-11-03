@@ -1,0 +1,16 @@
+.agents
+.codex
+.neon
+.vercel
+.next
+node_modules
+.env
+.env.*
+!.env.example
+work
+outputs
+scripts
+db
+*.md
+AGENTS.md
+skills-lock.json
